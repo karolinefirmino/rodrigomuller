@@ -36,6 +36,11 @@ pygmentsStyle = "monokai"
 [menu]
 
    [[menu.main]]
+    name = "Home"
+    url = "//"
+    weight = 1
+
+   [[menu.main]]
     name = "Sobre"
     url = "/sobre/"
     weight = 1
@@ -71,7 +76,7 @@ pygmentsStyle = "monokai"
     pre = "<span data-feather='message-circle'></span>"
     #pre = "<i class='fa-brands fa-whatsapp'></i>"
     #url = "https://github.com/526avijitgupta/gokarna"
-    url = "https://contate.me/rodrigomuller"
+    url = "/contato/"
     weight = 7
 
   [[menu.main]]
@@ -83,5 +88,5 @@ pygmentsStyle = "monokai"
   [[menu.main]]
     identifier = "email"
     pre = "<span data-feather='mail'></span>"
-    url = "mailto:rmoboe@gmail.com"
+    url = "/contato/"
     weight = 9

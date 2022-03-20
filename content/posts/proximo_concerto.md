@@ -33,4 +33,6 @@ Contamos com o Patrocínio Ouro da CP Kelco Brasil, Patrocínio Bronze da Gráfi
 
 > [**Siga a Orquestra Sinfônica de Limeira no Instagram**](<https://www.instagram.com/orquestrasinfonicadelimeira/> "Evento - Concerto de Abetura da Temporada 2022 - Orquestra Sinfônica de Limeira") 
 
+> [**Siga a Orquestra Sinfônica de Limeira no Youtube**](<https://www.youtube.com/channel/UCYT-A4VwN34B1GtL7ZRGxDQ> "Evento - Concerto de Abetura da Temporada 2022 - Orquestra Sinfônica de Limeira") 
+
 
