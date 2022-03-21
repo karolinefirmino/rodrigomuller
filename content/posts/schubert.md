@@ -1,16 +1,17 @@
 ---
-title: "200 Anos de Sinfonia Inacabada"
-date: 2022-03-21T23:39:49+05:30
+weight: 3
+title: "200 Anos da Sinfonia Inacabada"
+date: 2022-03-21
 tags: ["Osli", "Concerto", "Série Aliança", "Abertura da Temporada", "Limeira", "2022", "Cultura", "Schubert", "Sinfonia Inacabada", "200 anos"]
 type: "post"
 ---
 
 ## Franz Schubert & Osli
  
- A Orquestra Sinfônica de Limeira (Osli) traz em seu repertório do Concerto de Abertura da Temporada 2022, que acontecerá no próximo dia 24, às 20:30 horas no Teatro Vitória (</proximo_concerto.md>), a Sinfonia Inacabada para reviver uma obra que completa seus 200 anos de história desde sua primeira execução, consolidando uma legado ainda em aberto,  “inacabado” e sem fim de um dos gigantes da música instrumental: Franz Schubert 
+ A Orquestra Sinfônica de Limeira (Osli) traz em seu repertório do Concerto de Abertura da Temporada 2022, que acontecerá no próximo dia 24, às 20:30 horas no Teatro Vitória (<https://web.facebook.com/events/338637441552814/?ref=newsfeed>), a Sinfonia Inacabada para reviver uma obra que completa seus 200 anos de história desde sua primeira execução, consolidando uma legado ainda em aberto,  “inacabado” e sem fim de um dos gigantes da música instrumental: Franz Schubert 
 
- ![Posts.Schubert](/images/schubert.jpg "200 anos de Sinfonia Inacabada - Osli 2022")
-
+ 
+ ![Schubert](/images/schubert.png "200 anos de Sinfonia Inacabada - Osli 2022")
 
 > [**Garanta Seu Ingresso!**](<https://www.ticketfacil.com.br/eventos/tv-1-concerto-abertura-temporada-2022-solista-luis-felipe.aspx> "Ticket Fácil") 
 
