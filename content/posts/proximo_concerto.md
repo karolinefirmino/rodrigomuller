@@ -24,7 +24,7 @@ Contamos com o Patrocínio Ouro da CP Kelco Brasil, Patrocínio Bronze da Gráfi
 .
 .
 .
-#osli2022 #CulturaLimeira #limeira #piano Ver menos
+#osli2022 #CulturaLimeira #limeira #piano 
 — em Limeira, São Paulo, Brasil
 
 > [**Confirme sua presença no evento**](<https://web.facebook.com/events/338637441552814/?ref=newsfeed> "Evento - Concerto de Abetura da Temporada 2022 - Orquestra Sinfônica de Limeira") 

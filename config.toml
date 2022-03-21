@@ -37,7 +37,7 @@ pygmentsStyle = "monokai"
 
    [[menu.main]]
     name = "Home"
-    url = "//"
+    url = "/"
     weight = 1
 
    [[menu.main]]
@@ -75,18 +75,17 @@ pygmentsStyle = "monokai"
     identifier = "whatsapp"
     pre = "<span data-feather='message-circle'></span>"
     #pre = "<i class='fa-brands fa-whatsapp'></i>"
-    #url = "https://github.com/526avijitgupta/gokarna"
-    url = "/contato/"
+    url = "https://contate.me/rodrigomuller"
     weight = 7
 
-  [[menu.main]]
-    identifier = "github"
-    pre = "<span data-feather='github'></span>"
-    url = "https://github.com/karolinefirmino"
-    weight = 8
+  #[[menu.main]]
+    #identifier = "github"
+    #pre = "<span data-feather='github'></span>"
+    #url = "https://github.com/karolinefirmino"
+    #weight = 8
 
-  [[menu.main]]
-    identifier = "email"
-    pre = "<span data-feather='mail'></span>"
-    url = "/contato/"
-    weight = 9
+  #[[menu.main]]
+    #identifier = "email"
+    #pre = "<span data-feather='mail'></span>"
+    #url = "/contato/"
+    #weight = 9
