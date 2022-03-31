@@ -31,10 +31,10 @@ Contamos com o Patrocínio Ouro da CP Kelco Brasil, Patrocínio Bronze da Gráfi
 .
 #osli2022 #culturalimeira #limeira #clubedaesquina
 
-> [**Confirme sua presença no evento**](<https://web.facebook.com/events/284732440505734/?ref=newsfeed> "Concerto "Clube da Esquina - 50 anos - Orquestra Sinfônica de Limeira - Temporada 2022") 
+> [**Confirme sua presença no evento**](<https://web.facebook.com/events/284732440505734/?ref=newsfeed> "Concerto Clube da Esquina - 50 anos - Orquestra Sinfônica de Limeira - Temporada 2022") 
 
-> [**Curta a Paǵina da Orquestra Sinfônica de Limeira no Facebook**](<https://web.facebook.com/sinfonicadelimeira> "Concerto "Clube da Esquina - 50 anos - Orquestra Sinfônica de Limeira - Temporada 2022") 
+> [**Curta a Paǵina da Orquestra Sinfônica de Limeira no Facebook**](<https://web.facebook.com/sinfonicadelimeira> "Concerto Clube da Esquina - 50 anos - Orquestra Sinfônica de Limeira - Temporada 2022") 
 
-> [**Siga a Orquestra Sinfônica de Limeira no Instagram**](<https://www.instagram.com/orquestrasinfonicadelimeira/> "Concerto "Clube da Esquina - 50 anos - Orquestra Sinfônica de Limeira - Temporada 2022") 
+> [**Siga a Orquestra Sinfônica de Limeira no Instagram**](<https://www.instagram.com/orquestrasinfonicadelimeira/> "Concerto Clube da Esquina - 50 anos - Orquestra Sinfônica de Limeira - Temporada 2022") 
 
-> [**Siga a Orquestra Sinfônica de Limeira no Youtube**](<https://www.youtube.com/channel/UCYT-A4VwN34B1GtL7ZRGxDQ> "Concerto "Clube da Esquina - 50 anos - Orquestra Sinfônica de Limeira - Temporada 2022") 
+> [**Siga a Orquestra Sinfônica de Limeira no Youtube**](<https://www.youtube.com/channel/UCYT-A4VwN34B1GtL7ZRGxDQ> "Concerto Clube da Esquina - 50 anos - Orquestra Sinfônica de Limeira - Temporada 2022") 
