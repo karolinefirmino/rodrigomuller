@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: "50 Anos de Clube da Esquina"
+title: "Concerto Abril: 50 Anos de Clube da Esquina"
 date: 2022-03-31
 description: "Agenda Osli 2022"
 tags: ["Osli", "Clube da Esquina", "50 Anos", "Limeira", "Temporada 2022", "Abril", "Vila Jazz", "Popular", "Convidados"]
@@ -11,7 +11,7 @@ image: /images/concerto_abril.jpg
 ![Folder.Divulgação](/images/concerto_abril.jpg "II Concerto  da Temporada - Osli 2022: 50 Anos de Clube da Esquina!")
 
 
-> [**Garanta Seu Ingresso!**](<https://www.ticketfacil.com.br/> "Ticket Fácil") 
+> [**Garanta Seu Ingresso!**](<https://www.ticketfacil.com.br/eventos/tv-2-concerto-abertura-da-temporada-2022-50-anos-do-clube-da-esquina.aspx> "Ticket Fácil") 
 
 A Orquestra Sinfônica de Limeira apresenta, sob regência do Maestro Rodrigo Müller, o segundo concerto da Série Aliança: “Clube da Esquina – 50 anos”, com os convidados da Banda Vila Jazz. 
 
