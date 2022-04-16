@@ -1,5 +1,5 @@
 ---
-title: "Próximo Concerto da Orquestra Sinfônica de Limeira!"
+title: "I Concerto da Orquestra Sinfônica de Limeira - Série Aliança: Abertura da Temporada 2022"
 date: 2022-03-17T23:39:49+05:30
 tags: ["Osli", "Concerto", "Série Aliança", "Abertura da Temporada", "Limeira", "2022", "Cultura", "Piano"]
 type: "post"

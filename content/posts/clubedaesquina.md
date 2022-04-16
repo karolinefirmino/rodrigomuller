@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: "Concerto Abril: 50 Anos de Clube da Esquina"
+title: "II Concerto da Temporada 2022 : 50 Anos de Clube da Esquina - Série Aliança "
 date: 2022-03-31
 description: "Agenda Osli 2022"
 tags: ["Osli", "Clube da Esquina", "50 Anos", "Limeira", "Temporada 2022", "Abril", "Vila Jazz", "Popular", "Convidados"]
