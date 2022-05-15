@@ -3,10 +3,10 @@ title: "Agenda - Abril 2022 "
 date: 2022-05-15
 tags: ["Osli", "Concerto", "Série Aliança",  "Limeira", "2022", "Cultura", "Piracicaba", "Tatuí", "Banda Sinfônica de Tatuí", "Maio", "Orquestra de Americana"]
 type: "post"
-image: "/home/karol/rodrigomuller/static/images/agenda_maio.png"
+image: "/images/agenda_maio.png"
 ---
 
-![Folder.AGENDA_MAIO](/static/images/agenda_maio.png "Agenda - Maio 2022")
+![Folder.AGENDA_MAIO](/images/agenda_maio.png "Agenda - Maio 2022")
 
 
 > [**Confirme sua presença no evento Concerto "Gloria in Exclesis Deo"  - Série Aliança -  Orquestra Sinfônica de Limeira**](<https://www.facebook.com/events/555005876127948/?ref=newsfeed> "Concerto Clube da Esquina - 50 anos - Orquestra Sinfônica de Limeira - Temporada 2022") 
